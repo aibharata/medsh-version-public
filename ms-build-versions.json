@@ -1,0 +1,9 @@
+{
+    "version": 4.0,
+    "details":
+    {   
+        "configurator": 2.1,
+        "urmi": 3.0,
+        "user_interf": 3.5
+    }
+}
