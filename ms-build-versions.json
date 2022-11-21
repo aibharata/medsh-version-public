@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "details": {
         "configurator": "1.0.0.0",
         "urmi": "1.0.0.0",
         "user_interf": "1.0.0.0"
     },
-    "link": "https://storage.googleapis.com/myairamedishare/Myaira%20AI%20Medishare%20Setup-v1.0.0.1.exe",
-    "checksum": "68e07ec0efcde0c2917f1d26e8b43975"
+    "link": "https://storage.googleapis.com/myairamedishare/Myaira%20AI%20Medishare%20Setup-v1.0.0.2.exe",
+    "checksum": "579aa57c92a85af0ab1a8e6b8b038c3d"
 }
