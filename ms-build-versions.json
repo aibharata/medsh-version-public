@@ -1,11 +1,11 @@
 {
-    "version": "1.0.0.15",
+    "version": "1.0.0.16",
     "details": {
         "configurator": "1.0.0.13",
         "urmi": "1.0.0.6",
-        "user_interf": "1.0.0.6",
+        "user_interf": "1.0.0.7",
         "updater": "1.0.0.1"
     },
-    "link": "https://storage.googleapis.com/myairamedishare/Myaira%20AI%20Medishare%20Setup-v1.0.0.15.exe",
-    "checksum": "49015a7f6311e6f786203ac9a1265a75"
+    "link": "https://storage.googleapis.com/myairamedishare/Myaira%20AI%20Medishare%20Setup-v1.0.0.16.exe",
+    "checksum": "06211ea7a3915a56088d54dec929fe1c"
 }
